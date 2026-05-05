@@ -1,5 +1,3 @@
-# portfolio
-
 # 🚀 Personal Portfolio Website
 
 Welcome to my personal portfolio repository! This is a modern, responsive, and animated multi-page website designed to showcase my web development skills, projects, and professional background.
@@ -24,10 +22,10 @@ Welcome to my personal portfolio repository! This is a modern, responsive, and a
 ├── projects.html    # Showcase of recent work (e.g., BiSync)
 ├── contact.html     # Contact information and social links
 ├── style.css        # Global stylesheet and design system
-└── script.js        # Interactivity and dynamic animations
+└── script.js        # Interactivity and dynamic animations.
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
+---
 ## Let's Connect
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 GitHub: @julkasiya43
 LinkedIn: Siya Julka

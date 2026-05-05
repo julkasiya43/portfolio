@@ -11,8 +11,7 @@ Welcome to my personal portfolio repository! This is a modern, responsive, and a
 ## 🛠️ Technologies Used
 - **HTML5:** Clean, semantic markup structuring the content.
 - **CSS3:** Custom styling utilizing Flexbox/Grid, CSS variables, and modern visual effects.
-- **Vanilla JavaScript:** DOM manipulation and logic for dynamic features (e.g., the typing text effect).
-- **FontAwesome:** Scalable vector icons for social links and technical skill badges.
+- **JavaScript:** DOM manipulation and logic for dynamic features (e.g., the typing text effect).
 
 ## 📂 Project Structure
 ```text

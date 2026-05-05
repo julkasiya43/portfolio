@@ -25,6 +25,7 @@ Welcome to my personal portfolio repository! This is a modern, responsive, and a
 └── script.js        # Interactivity and dynamic animations.
 
 ---
+
 ## Let's Connect
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 GitHub: @julkasiya43

@@ -23,7 +23,8 @@ Welcome to my personal portfolio repository! This is a modern, responsive, and a
 ├── contact.html     # Contact information and social links
 ├── style.css        # Global stylesheet and design system
 └── script.js        # Interactivity and dynamic animations.
--
+'''
+
 ---
 
 ## Let's Connect
